@@ -30,6 +30,15 @@ A modern expense tracking application with **React.js frontend** and **Node.js b
 ### Expenses Management
 ![Expenses Page](./screenshots/expenses.png)
 
+### Add Expense
+![Add Expense](./screenshots/add-expense.png)
+
+### Edit Expense
+![Edit Expense](./screenshots/edit-expense.png)
+
+### Delete Expense
+![Delete Expense](./screenshots/delete-expense.png)
+
 ### User Profile
 ![Profile Page](./screenshots/profile.png)
 
