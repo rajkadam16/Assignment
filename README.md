@@ -152,7 +152,6 @@ GET    /api/expenses/stats   # Get statistics
 
 ## 📈 Scalability for Production
 
-> **Detailed notes available in [SCALABILITY.md](./SCALABILITY.md)**
 
 ### Frontend Scalability
 - **Code Splitting**: Lazy load routes to reduce bundle size by 60-70%
