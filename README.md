@@ -138,20 +138,6 @@ GET    /api/expenses/stats   # Get statistics
 
 ---
 
-## 🧪 Testing with Postman
-
-1. Import `Postman_Collection.json` into Postman
-2. Register a new user → Copy the JWT token
-3. Set token in Authorization header for protected routes
-4. Test all CRUD operations
-
-**Test Flow:**
-```
-Register → Login → Create Expenses → Get Expenses → 
-Update Expense → Delete Expense → Get Statistics
-```
-
----
 
 ## 🔒 Security Features
 
