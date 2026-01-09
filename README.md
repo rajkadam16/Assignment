@@ -16,6 +16,25 @@ A modern expense tracking application with **React.js frontend** and **Node.js b
 
 ---
 
+## 📸 UI Screenshots
+
+### Login Page
+![Login Page](./screenshots/login.png)
+
+### Signup Page
+![Signup Page](./screenshots/signup.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Expenses Management
+![Expenses Page](./screenshots/expenses.png)
+
+### User Profile
+![Profile Page](./screenshots/profile.png)
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
